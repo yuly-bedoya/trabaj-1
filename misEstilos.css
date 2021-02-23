@@ -1,0 +1,42 @@
+
+body{
+    font-size: 13px;
+}
+
+.bg-violeta{
+    background: hsl(263, 55%, 52%);
+}
+
+.bg-gris-oscuro{
+    background: hsl(217, 19%, 35%);
+}
+
+.bg-gris-mas-oscuro{
+    background: hsl(219, 29%, 14%);
+}
+
+.text-gris{
+    color: hsl(217, 19%, 35%);
+}
+
+.bg-quotation{
+    background-image: url(images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: 80% 0;
+}
+
+.text-description{
+    opacity: .7;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 600;
+}
+
+p{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 500;
+}
+
+
